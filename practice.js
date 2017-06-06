@@ -5,7 +5,7 @@
 
   // 2) What are the four rules that govern what the 'this keyword' is bound to and describe each?
 
-      //Answer implicit , explicit , default, new
+      //Answer Implicit, explicit, default, new
 
   // 3) What is the difference between call and apply?
 
